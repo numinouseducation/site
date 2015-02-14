@@ -70,9 +70,6 @@ p {
     filter: none;
     border: none;
     box-shadow: none;
-    
-    min-height:110px;//alessio
-    height:110px;
 }
 .navbar .brand img {
     width:120px;
